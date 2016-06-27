@@ -1,11 +1,11 @@
 if myHero.charName ~= "Caitlyn" then return end
 
 function OnLoad()
-  PrintChat("<font color = \"#B13070\">[SHIELD HELPER]</font> <font color = \"#4DFF4D\">LOADED</font>")
+  PrintChat("<font color = \"#B13070\">[CAIT HELPER]</font> <font color = \"#4DFF4D\">LOADED</font>")
 end
 
 
-function OnApplyBuff(source, unit, buff) -- some creds to yetcass
+function OnApplyBuff(source, unit, buff) 
    if unit and buff and unit.type == myHero.type and unit.team ~= myHero.team and ValidTarget(unit, 875) and (myHero:CanUseSpell(_W) == READY) and (buff.type == 5 or buff.type == 11 or buff.type == 29 or buff.type == 24 or buff.type == 8) and buff.name ~= "caitlynyordletrapdebuff" then
 		print(buff.name)
 		CastSpell(_W, unit.x, unit.z)
