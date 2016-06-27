@@ -1,0 +1,17 @@
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\bin\Debug\ElNamiBurrito.exe.config
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\bin\Debug\ElNamiBurrito.exe
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\bin\Debug\ElNamiBurrito.pdb
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\bin\Debug\LeagueSharp.dll
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\bin\Debug\SharpDX.dll
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\bin\Debug\LeagueSharp.Data.dll
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\bin\Debug\clipper_library.dll
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\bin\Debug\LeagueSharp.Sandbox.dll
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\bin\Debug\LeagueSharp.Common.pdb
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\bin\Debug\LeagueSharp.Data.pdb
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\bin\Debug\LeagueSharp.Sandbox.pdb
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\obj\x86\Debug\ElNamiBurrito.csprojResolveAssemblyReference.cache
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\obj\x86\Debug\ElNamiBurrito.exe
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\obj\x86\Debug\ElNamiBurrito.pdb
+C:\Users\NORAD\Desktop\Scripts\Custom\ElNamiBurrito\ElNamiBurrito\bin\Debug\LeagueSharp.Common.dll
