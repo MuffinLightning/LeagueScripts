@@ -55,8 +55,3 @@ function OnProcessSpell(unit, spell)
 		end
 	
 end
-
-
-
-
-
