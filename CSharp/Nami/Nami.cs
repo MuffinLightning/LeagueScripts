@@ -73,6 +73,7 @@
             Interrupter2.OnInterruptableTarget += Interrupter2_OnInterruptableTarget;
             AntiGapcloser.OnEnemyGapcloser += AntiGapcloser_OnEnemyGapcloser;
             GameObject.OnCreate += RangeAttackOnCreate;
+            Obj_AI_Base.OnProcessSpellCast += Obj_AI_Base_OnProcessSpellCast;
         }
 
         #endregion
@@ -255,6 +256,8 @@
             }
         }
 
+
+
         private static void RangeAttackOnCreate(GameObject sender, EventArgs args)
         {
 
@@ -267,8 +270,7 @@
             var missile = (MissileClient)sender;
 
             // Caster ally hero / not me
-            if (!missile.SpellCaster.IsValid<Obj_AI_Hero>() || !missile.SpellCaster.IsAlly || missile.SpellCaster.IsMe ||
-            missile.SpellCaster.IsMelee())
+            if (!missile.SpellCaster.IsValid<Obj_AI_Hero>() || !missile.SpellCaster.IsAlly || missile.SpellCaster.IsMe || !missile.SpellCaster.IsMelee())
             {
                 return;
             }
